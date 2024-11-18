@@ -109,10 +109,10 @@
   리소스 수집, 유스 케이스와 플로우 차트 작성, 1차 발표
   
 - **담당 페이지** :
-  [주변 소개](https://0011git.github.io/daon/sub4_around_spot.html),
-  [로그인](https://0011git.github.io/daon/login.html),
-  [회원가입](https://0011git.github.io/daon/join.html),
-  [회원가입 완료](https://0011git.github.io/daon/join_complete.html)
+  [주변 소개](https://qodql.github.io/daon/sub4_around_spot.html),
+  [로그인](https://qodql.github.io/daon/login.html),
+  [회원가입](https://qodql.github.io/daon/join.html),
+  [회원가입 완료](https://qodql.github.io/daon/join_complete.html)
   <span style="color: gray; font-size: 0.5em;">(클릭 시 외부 링크로 이동합니다.)</span>
 
 - **담당 주요 기능** :  
