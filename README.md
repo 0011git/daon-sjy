@@ -113,7 +113,7 @@
   [로그인](https://qodql.github.io/daon/login.html),
   [회원가입](https://qodql.github.io/daon/join.html),
   [회원가입 완료](https://qodql.github.io/daon/join_complete.html)
-  <span style="color: gray; font-size: 0.5em;">(클릭 시 외부 링크로 이동합니다.)</span>
+  <span style="color: gray; font-size: 0.5em;">(클릭 시 해당 페이지로 이동합니다.)</span>
 
 - **담당 주요 기능** :  
     - 인터페이스 기능 :
