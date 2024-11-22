@@ -83,22 +83,38 @@
 
 
 ## 👪 페르소나
+<details>
+  <summary>$\bf{{\color{#0969DA}페르소나}}$</summary>
+
 ![persona](https://github.com/user-attachments/assets/239af6ad-3023-4642-96f3-66b441bcc795)
+</details>
 
 
 
 ## 👥 유스 케이스
+<details>
+  <summary>$\bf{{\color{#0969DA}유스\ 케이스}}$</summary>
+   
 ![usecase](https://github.com/user-attachments/assets/c4e9be7d-df79-444f-95d7-e4a9fb6c9a0d)
+</details>
 
 
 
 ## 🔀 플로우 차트
+<details>
+  <summary>$\bf{{\color{#0969DA}플로우\ 차트}}$</summary>
+   
 ![flow](https://github.com/user-attachments/assets/d5f47241-1e84-4a8e-a98d-fb4bc218f2ae)
+</details>
 
 
 
 ## 🧩 정보 설계
+<details>
+  <summary>$\bf{{\color{#0969DA}정보\ 설계}}$</summary>
+
 ![information structure](https://github.com/user-attachments/assets/b341bdc1-e897-40bb-b6c0-ae54bda3fa51)
+</details>
 
 
 
