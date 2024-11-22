@@ -365,6 +365,8 @@ profile =  {
 
    
 ## 📱 스크린샷
+<details>
+  <summary>$\bf{{\color{#0969DA}메인\ 이미지}}$</summary>
 
 ![d1](https://github.com/user-attachments/assets/c2b9cbbc-0617-4c36-ad2b-7a6ce6fa8d1c)
-
+</details>
